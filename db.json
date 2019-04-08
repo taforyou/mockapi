@@ -1,14 +1,11 @@
-[
-  {
-    "id": "1",
-    "completed": "True",
-    "selected": "True",
-    "title": "#ทดสอบ1"
-  },
-  {
-    "id": "2",
-    "completed": "False",
-    "selected": "False",
-    "title": "ทดสอบ2"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
